@@ -2680,3 +2680,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.12.13-13.36.11:942][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
 [2019.12.13-13.36.13:031][459]LogSavePackage: Moving '../../../../../../Users/caugh/OneDrive/Desktop/Michael/School/DAGD 300/Ruins/Caughman_Ruins/Saved/Ruins448A36FF473DC77C90CD0EA4C24FF507.tmp' to '../../../../../../Users/caugh/OneDrive/Desktop/Michael/School/DAGD 300/Ruins/Caughman_Ruins/Content/ThirdPersonBP/Maps/Ruins.umap'
 [2019.12.13-13.36.22:797][538]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.13-13.39.42:962][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.12.13-13.39.47:069][ 17]LogSlate: Window 'Save Content' being destroyed
+[2019.12.13-13.39.47:085][ 17]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/Keg" FILE="../../../../../../Users/caugh/OneDrive/Desktop/Michael/School/DAGD 300/Ruins/Caughman_Ruins/Content/Geometry/Meshes/Keg.uasset" SILENT=true
+[2019.12.13-13.39.47:098][ 17]LogSavePackage: Moving '../../../../../../Users/caugh/OneDrive/Desktop/Michael/School/DAGD 300/Ruins/Caughman_Ruins/Saved/Keg91ACCEAB40BBF4BDB7B380A640F9BFD1.tmp' to '../../../../../../Users/caugh/OneDrive/Desktop/Michael/School/DAGD 300/Ruins/Caughman_Ruins/Content/Geometry/Meshes/Keg.uasset'
+[2019.12.13-13.39.47:871][ 17]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.13-13.39.48:252][ 17]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.13-13.39.48:692][ 17]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.13-13.39.48:942][ 17]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.13-13.39.49:087][ 17]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.12.13-13.39.49:247][ 17]LogSlate: Window 'Caughman_Ruins - Unreal Editor' being destroyed
+[2019.12.13-13.39.49:252][ 17]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.13-13.39.49:666][ 18]Cmd: QUIT_EDITOR
+[2019.12.13-13.39.50:723][ 18]LogExit: Preparing to exit.
+[2019.12.13-13.39.52:115][ 18]LogExit: Editor shut down
+[2019.12.13-13.39.52:124][ 18]LogExit: Transaction tracking system shut down
+[2019.12.13-13.39.53:949][ 18]LogExit: Object subsystem successfully closed.
+[2019.12.13-13.39.54:059][ 18]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.13-13.39.54:097][ 18]LogD3D11RHI: Shutdown
+[2019.12.13-13.39.54:097][ 18]LogD3D11RHI: CleanupD3DDevice
+[2019.12.13-13.39.54:128][ 18]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.13-13.39.54:128][ 18]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.13-13.39.54:129][ 18]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.13-13.39.54:129][ 18]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.13-13.39.54:129][ 18]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.12.13-13.39.54:129][ 18]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.13-13.39.54:682][ 18]LogD3D11RHI: ~FD3D11DynamicRHI
